@@ -1,0 +1,23 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+.view {
+    height: 100%;
+  }
+
+.top-nav-collapse {
+background-color: #27ad2d;
+}
+
+.mystyle{
+  width: 1037px;
+  height: 1600px;
+}
+
+.streak.streak-photo {
+  background-attachment: fixed;
+}
